@@ -54,7 +54,7 @@ const Search = () => {
           <Form.Control
             type="text"
             onClick={(e) => changeData(e.target.value)}
-            placeholder="Search Shaad for playing PUBG"
+            placeholder="Search for Food"
           />
         </Form.Group>
         <button
